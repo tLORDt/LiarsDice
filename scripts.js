@@ -33,3 +33,8 @@ function makeBet(){
 
     console.log("Bet that there are " + numberDice + " di with value " + valueDice);
 }
+
+function createGlobalVariable() {
+    globalVariable = "I'm a global variable!";
+}
+
